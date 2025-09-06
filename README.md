@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 - Setup Instructions
 Clone the repository:
-git clone https://github.com/MadhavKumar10/airbnb-clone.git
+git clone https://github.com/MadhavKumar10/Hotel-Booking-Platform.git
 cd airbnb-clone
 
 Install dependencies:
